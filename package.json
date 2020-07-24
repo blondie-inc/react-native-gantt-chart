@@ -25,7 +25,8 @@
   "homepage": "https://github.com/CiftciCagatay/react-native-gantt-chart#readme",
   "peerDependencies": {
     "react": ">= 15.x",
-    "react-native": ">= 0.47.x"
+    "react-native": ">= 0.47.x",
+    "react-native-svg": "^9"
   },
   "devDependencies": {
     "babel-preset-react-native": "^4.0.1"
@@ -33,7 +34,6 @@
   "dependencies": {
     "d3": "^5.9.2",
     "moment": "^2.24.0",
-    "prop-types": "^15.7.2",
-    "react-native-svg": "^9.4.0"
+    "prop-types": "^15.7.2"
   }
 }
